@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace workspace
+namespace AKSBuild
 {
     class Program
     {
