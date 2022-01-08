@@ -4,6 +4,13 @@
 
 Proof of concept programming AKS primality test in c# using vscode with remote code using a docker container
 
+the solution is split in multiple projects:
+
+  - AKSBuild: console program that reads number from console then outputs if is prime
+  - AKSService: library that contains the tests
+  - AKSService.Tests: Xunit tests of the service
+
+
 ## ⚡ Getting Started
 
 1. clone the code
